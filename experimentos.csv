@@ -1,0 +1,4 @@
+arquitetura,epocas_treinadas,acuracia_validacao
+Rede 1: Simples (32 neurônios),24,88.02
+Rede 2: Média (128 neurônios),25,89.75
+Rede 3: Profunda (128 + 64 neurônios),15,88.81
